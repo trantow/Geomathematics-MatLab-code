@@ -3,7 +3,7 @@
 ## Introduction
 
 This repository contains five of my most used MatLab scripts that help in processing and visualizing the most common data sets used in the Geomathematics Lab at CU.
-More specifically, these scripts help with analysis of ICESat-2 ATL03 altimeter data and LandSat imagery. Supplemental scripts for the main code pieces are also included with **`fig.m`** used to fomrat all the plots that are generated.
+More specifically, these scripts help with analysis of ICESat-2 ATL03 altimeter data and LandSat imagery. Supplemental scripts for the main code pieces are also included with **`fig.m`** used to format all the plots that are generated.
 Look at the comments in the header of each code for information on how to run and the inputs required for each script.
 
 ## Code
