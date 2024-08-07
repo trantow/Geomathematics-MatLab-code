@@ -31,3 +31,5 @@ Code(s) that convert lat/lon to and from UTM coordinates, and to and from polar-
 **`plot*.m`**
 Scripts that create a figure with a geolocated image (jpg or png) of the associated glacier. Used as a basemap to plot other data over. All image files found in _data_ folder.
 <br></br>
+
+Some code here and elsewhere may using the export_fig.m code (with associated scripts) to make better plots. That code can be found on the MatLab file exchange center at: https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig
