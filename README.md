@@ -13,7 +13,7 @@ Code that plots ICESat-2 tracks from the h5-file over an image of a specified gl
 <br></br>
 
 **`dataOnGLacier.m`**
-Code that subsets a dataset to get only the data on a specified glacier, i.e., data within some contour specifying the glacier boundary.
+Code that subsets a dataset to get only the data on a specified glacier, i.e., data within some contour specifying the glacier boundary. All contour files found in _data_ folder.
 <br></br>
 
 **`landsat_show_bands.m`**
@@ -26,4 +26,8 @@ Code that plots the location of the track segments given by the DDA over an imag
 
 **`ll2utm.m`**, **`utm211.m`**, **`polarstereo fwd.m`** and **`polarstereo inv.m`**
 Code(s) that convert lat/lon to and from UTM coordinates, and to and from polar-stereographic coordinates.
+<br></br>
+
+**`plot*.m`**
+Scripts that create a figure with a geolocated image (jpg or png) of the associated glacier. Used as a basemap to plot other data over. All image files found in _data_ folder.
 <br></br>
